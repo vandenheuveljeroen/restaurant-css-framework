@@ -1,4 +1,6 @@
-
+body{
+  background-color: #d6b573 !important;
+}
 .polaroid {
   width: 80%;
   background-color: white;

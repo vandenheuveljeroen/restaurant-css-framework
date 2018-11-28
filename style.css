@@ -1,7 +1,19 @@
-.jumbotronfoto{
+body{
+  background-color: #d6b573 !important;
+}
+.navbar{
+  width:auto;
+}
+.container{
+  background-color: #d6b573 !important;
+}
+
+.jumbotron-foto{
   background-image: url("images/Halalfoodz_jumbotronpic.jpg");
   background-size: cover;
-  height:500px
+  height:500px;
+  width: auto;
+
 }
 .carousel-inner img{
   width:500px;
